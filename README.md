@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rose. I'm a senior at Purdue University where I study pharmaceutical sciences. Through recent involvements I've become deeply interested in computer science and machine learning. 
-- 👀 I’m expanding my knowledge in data science and computer science and seeing how these fields can impact biology, pharmaceutical sciences, and public health.
+- I’m expanding my knowledge in data science and computer science and seeing how these fields can impact biology, pharmaceutical sciences, and public health.
 
 <!---
 rwilfong/rwilfong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
